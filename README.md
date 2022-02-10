@@ -1,4 +1,4 @@
-# TIP-CALCULATOR 
+# TIP-CALCULATOR 🔳
 
 This is a simple web app (TIP-CALCULATOR).
 
