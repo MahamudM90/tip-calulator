@@ -3,19 +3,19 @@
 This is a simple web app. (TIP-CALCULATOR).
 
 ##### HomePage
-![ScreenShot of Form](screenshorts/e.png)
+![ScreenShot of Form](screenshot/e.png)
 
 ##### Information BD
-![ScreenShot of Form](screenshorts/a.png)
+![ScreenShot of Form](screenshot/a.png)
 
 ##### Information Last 30 Days
-![ScreenShot of Form](screenshorts/b.png)
+![ScreenShot of Form](screenshot/b.png)
 
 ##### Current Situation
-![ScreenShot of Form](screenshorts/c.png)
+![ScreenShot of Form](screenshot/c.png)
 
 ##### Awareness for Covid-19
-![ScreenShot of Form](screenshorts/d.png)
+![ScreenShot of Form](screenshot/d.png)
 
 ## Key Features
 Some of the standout features of the project are
