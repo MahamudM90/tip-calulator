@@ -7,8 +7,12 @@ This is a simple web app (TIP-CALCULATOR).
 ##### Homepage
 ![ScreenShot of Form](screenshot/a.png)
 
-##### Information Last 30 Days
+
+
+##### Bill Showing
 ![ScreenShot of Form](screenshot/b.png)
+
+
 
 ##### Current Situation
 ![ScreenShot of Form](screenshot/c.png)
