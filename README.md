@@ -14,7 +14,7 @@ This is a simple web app (TIP-CALCULATOR).
 
 
 
-##### 
+##### Select Tip
 ![ScreenShot of Form](screenshot/c.png)
 
 ##### Awareness for Covid-19
