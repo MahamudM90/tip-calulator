@@ -29,3 +29,8 @@ This is a simple web app (TIP-CALCULATOR).
 
 
  
+## Run it Locally
+```
+$ git clone https://github.com/MahamudM90/Tip-calculator
+```
+   ###    [Live Site](https://boighorss.vercel.app/?fbclid=IwAR3f1UHUDWg0-41u_pPRq8vSZSZVpnMLtsQ1u3CvYKDppGGCBV4HO2ea-dk)
