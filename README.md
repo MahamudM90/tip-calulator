@@ -1,10 +1,10 @@
 # TIP-CALCULATOR
 
-This is a simple web app. (TIP-CALCULATOR).
+This is a simple web app (TIP-CALCULATOR).
 
 
 
-##### Information BD
+##### Homepage
 ![ScreenShot of Form](screenshot/a.png)
 
 ##### Information Last 30 Days
