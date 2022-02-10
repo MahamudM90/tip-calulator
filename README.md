@@ -2,8 +2,7 @@
 
 This is a simple web app. (TIP-CALCULATOR).
 
-##### HomePage
-![ScreenShot of Form](screenshot/e.png)
+
 
 ##### Information BD
 ![ScreenShot of Form](screenshot/a.png)
@@ -16,6 +15,9 @@ This is a simple web app. (TIP-CALCULATOR).
 
 ##### Awareness for Covid-19
 ![ScreenShot of Form](screenshot/d.png)
+
+##### HomePage
+![ScreenShot of Form](screenshot/e.png)
 
 ## Key Features
 Some of the standout features of the project are
