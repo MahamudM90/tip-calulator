@@ -4,7 +4,7 @@ This is the simple web app (TIP-CALCULATOR).
 
 
 
-##### Homepage
+##### Home Page
 ![ScreenShot of Form](screenshot/a.png)
 
 
