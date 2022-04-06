@@ -1,6 +1,6 @@
 # TIP-CALCULATOR 🔳
 
-This is The simple web app (TIP-CALCULATOR).
+This is The Simple web app (TIP-CALCULATOR).
 
 
 
