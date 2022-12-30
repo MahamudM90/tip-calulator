@@ -29,7 +29,7 @@ This is The Simple web app (TIP-CALCULATOR).
 
 
  
-## Run it Locally
+## Run It Locally
 ```
 $ git clone https://github.com/MahamudM90/TIP-CALCULATOR
 ```
